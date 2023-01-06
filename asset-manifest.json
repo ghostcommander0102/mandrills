@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.951165e7.css",
+    "main.js": "/static/js/main.92498565.js",
+    "static/media/28-Days-Later.ttf": "/static/media/28-Days-Later.a8d6fb07be0e374edbab.ttf",
+    "static/media/Segoe-UI.ttf": "/static/media/Segoe-UI.45472284dc36b2486ce2.ttf",
+    "index.html": "/index.html",
+    "main.951165e7.css.map": "/static/css/main.951165e7.css.map",
+    "main.92498565.js.map": "/static/js/main.92498565.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.951165e7.css",
+    "static/js/main.92498565.js"
+  ]
+}
