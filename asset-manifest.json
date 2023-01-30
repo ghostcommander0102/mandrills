@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ac15f2ab.css",
-    "main.js": "/static/js/main.60ef8414.js",
+    "main.css": "/static/css/main.fa8bfc13.css",
+    "main.js": "/static/js/main.6624bb5c.js",
     "static/media/background.png": "/static/media/background.43b3df48cc2edcafc93f.png",
     "static/media/28-Days-Later.ttf": "/static/media/28-Days-Later.a8d6fb07be0e374edbab.ttf",
     "static/media/banner.png": "/static/media/banner.f646a196438e5abe90ae.png",
@@ -9,11 +9,11 @@
     "static/media/Segoe-UI.ttf": "/static/media/Segoe-UI.45472284dc36b2486ce2.ttf",
     "static/media/Monster AG.ttf": "/static/media/Monster AG.1f789df73c56eaa9364e.ttf",
     "index.html": "/index.html",
-    "main.ac15f2ab.css.map": "/static/css/main.ac15f2ab.css.map",
-    "main.60ef8414.js.map": "/static/js/main.60ef8414.js.map"
+    "main.fa8bfc13.css.map": "/static/css/main.fa8bfc13.css.map",
+    "main.6624bb5c.js.map": "/static/js/main.6624bb5c.js.map"
   },
   "entrypoints": [
-    "static/css/main.ac15f2ab.css",
-    "static/js/main.60ef8414.js"
+    "static/css/main.fa8bfc13.css",
+    "static/js/main.6624bb5c.js"
   ]
 }
