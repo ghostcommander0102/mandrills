@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b595923c.css",
-    "main.js": "/static/js/main.673a9c45.js",
+    "main.js": "/static/js/main.c16fb993.js",
     "static/media/background.png": "/static/media/background.c96709374c68136ad617.png",
     "static/media/journeyBack.png": "/static/media/journeyBack.219c98b87b891e5f5bc7.png",
     "static/media/loadingback.png": "/static/media/loadingback.26fe79ed42a09c39eb12.png",
@@ -15,10 +15,10 @@
     "static/media/Monster AG.ttf": "/static/media/Monster AG.1f789df73c56eaa9364e.ttf",
     "index.html": "/index.html",
     "main.b595923c.css.map": "/static/css/main.b595923c.css.map",
-    "main.673a9c45.js.map": "/static/js/main.673a9c45.js.map"
+    "main.c16fb993.js.map": "/static/js/main.c16fb993.js.map"
   },
   "entrypoints": [
     "static/css/main.b595923c.css",
-    "static/js/main.673a9c45.js"
+    "static/js/main.c16fb993.js"
   ]
 }
